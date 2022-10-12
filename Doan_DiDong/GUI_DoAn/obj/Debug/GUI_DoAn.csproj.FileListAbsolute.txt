@@ -1,0 +1,86 @@
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe.config
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.pdb
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.dll
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.dll
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.dll
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.pdb
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.pdb
+D:\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.pdb
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.AssemblyReference.cache
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CHITIETHOADON.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_DANGNHAP.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADON.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_KHACHHANG.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_LOAISANPHAM.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHACUNGCAP.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHANVIEN.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_SANPHAM.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_TRANGCHU.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.Properties.Resources.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.GenerateResource.cache
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CoreCompileInputs.cache
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.exe
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.pdb
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CTHOADONNHAP.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADONNHAP.resources
+D:\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CopyComplete
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe.config
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.pdb
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.dll
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.dll
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.dll
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.pdb
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.pdb
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.pdb
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.AssemblyReference.cache
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CHITIETHOADON.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CTHOADONNHAP.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_DANGNHAP.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADON.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADONNHAP.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_KHACHHANG.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_LOAISANPHAM.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHACUNGCAP.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHANVIEN.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_SANPHAM.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_TRANGCHU.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.Properties.Resources.resources
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.GenerateResource.cache
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CopyComplete
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.exe
+C:\Users\Huy\Downloads\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe.config
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.exe
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\GUI_DoAn.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\BUS_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DTO_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\DAL_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.AssemblyReference.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CHITIETHOADON.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_CTHOADONNHAP.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_DANGNHAP.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADON.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_HOADONNHAP.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_KHACHHANG.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_LOAISANPHAM.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHACUNGCAP.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_NHANVIEN.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_SANPHAM.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.GUI_TRANGCHU.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.Properties.Resources.resources
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.GenerateResource.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.csproj.CopyComplete
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.exe
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\obj\Debug\GUI_DoAn.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\MetroFramework.Design.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\MetroFramework.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\GUI_DoAn\bin\Debug\MetroFramework.Fonts.dll

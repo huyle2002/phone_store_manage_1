@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14A0885F-B034-4E76-A748-201D80E4C080}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_DoAn</RootNamespace>
+    <AssemblyName>GUI_DoAn</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI_CHITIETHOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_CHITIETHOADON.Designer.cs">
+      <DependentUpon>GUI_CHITIETHOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_CTHOADONNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_CTHOADONNHAP.Designer.cs">
+      <DependentUpon>GUI_CTHOADONNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_DANGNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_DANGNHAP.Designer.cs">
+      <DependentUpon>GUI_DANGNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_HOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_HOADON.Designer.cs">
+      <DependentUpon>GUI_HOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_HOADONNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_HOADONNHAP.Designer.cs">
+      <DependentUpon>GUI_HOADONNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_KHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_KHACHHANG.Designer.cs">
+      <DependentUpon>GUI_KHACHHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_LOAISANPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_LOAISANPHAM.Designer.cs">
+      <DependentUpon>GUI_LOAISANPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_NHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_NHACUNGCAP.Designer.cs">
+      <DependentUpon>GUI_NHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_NHANVIEN.Designer.cs">
+      <DependentUpon>GUI_NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_SANPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_SANPHAM.Designer.cs">
+      <DependentUpon>GUI_SANPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_TRANGCHU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_TRANGCHU.Designer.cs">
+      <DependentUpon>GUI_TRANGCHU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI_CHITIETHOADON.resx">
+      <DependentUpon>GUI_CHITIETHOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_CTHOADONNHAP.resx">
+      <DependentUpon>GUI_CTHOADONNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_DANGNHAP.resx">
+      <DependentUpon>GUI_DANGNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_HOADON.resx">
+      <DependentUpon>GUI_HOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_HOADONNHAP.resx">
+      <DependentUpon>GUI_HOADONNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_KHACHHANG.resx">
+      <DependentUpon>GUI_KHACHHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_LOAISANPHAM.resx">
+      <DependentUpon>GUI_LOAISANPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_NHACUNGCAP.resx">
+      <DependentUpon>GUI_NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_NHANVIEN.resx">
+      <DependentUpon>GUI_NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_SANPHAM.resx">
+      <DependentUpon>GUI_SANPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_TRANGCHU.resx">
+      <DependentUpon>GUI_TRANGCHU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\anhdep.jpg" />
+    <Content Include="Resources\anhdep2.jpg" />
+    <Content Include="Resources\anhdep3.jpg" />
+    <Content Include="Resources\anh_pc_kute.png" />
+    <Content Include="Resources\avatar-buon-34.jpg" />
+    <Content Include="Resources\iconDT1.jpg" />
+    <Content Include="Resources\iconLAMMOI.jpg" />
+    <Content Include="Resources\icons8-add-reminder-48.png" />
+    <Content Include="Resources\icons8-close-window-64.png" />
+    <Content Include="Resources\icons8-delete-64.png" />
+    <Content Include="Resources\icons8-google-web-search-64.png" />
+    <Content Include="Resources\icons8-restart-64.png" />
+    <Content Include="Resources\icons8-update-100.png" />
+    <Content Include="Resources\icons8-update-48.png" />
+    <Content Include="Resources\icons8-update-file-32.png" />
+    <Content Include="Resources\iconXOA.jpg" />
+    <Content Include="Resources\SUARM.jpg" />
+    <Content Include="Resources\SUARM1.jpg" />
+    <Content Include="Resources\x-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_DA\BUS_DA.csproj">
+      <Project>{beeb61d8-d1d0-40e3-b6ce-de982b728072}</Project>
+      <Name>BUS_DA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_DA\DTO_DA.csproj">
+      <Project>{2e5905f3-f45a-4334-afcb-90b50dc5ba60}</Project>
+      <Name>DTO_DA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

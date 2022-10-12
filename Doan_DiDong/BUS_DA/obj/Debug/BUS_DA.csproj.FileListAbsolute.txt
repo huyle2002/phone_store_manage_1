@@ -1,0 +1,22 @@
+D:\Doan_DiDong\BUS_DA\bin\Debug\BUS_DA.dll
+D:\Doan_DiDong\BUS_DA\bin\Debug\BUS_DA.pdb
+D:\Doan_DiDong\BUS_DA\bin\Debug\DAL_DA.dll
+D:\Doan_DiDong\BUS_DA\bin\Debug\DTO_DA.dll
+D:\Doan_DiDong\BUS_DA\bin\Debug\DAL_DA.pdb
+D:\Doan_DiDong\BUS_DA\bin\Debug\DTO_DA.pdb
+D:\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.AssemblyReference.cache
+D:\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.CoreCompileInputs.cache
+D:\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.dll
+D:\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.pdb
+D:\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.CopyComplete
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\BUS_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\BUS_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\DAL_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\DTO_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\DAL_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\bin\Debug\DTO_DA.pdb
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.AssemblyReference.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.csproj.CopyComplete
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.dll
+C:\Users\Huy\Desktop\Du lieu\Doan_DiDong\Doan_DiDong\BUS_DA\obj\Debug\BUS_DA.pdb
